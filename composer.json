@@ -1,11 +1,11 @@
 {
-    "name": "laravelcollective/html",
+    "name": "seekerliu/html",
     "description": "HTML and Form Builders for the Laravel Framework",
     "license": "MIT",
-    "homepage": "http://laravelcollective.com",
+    "homepage": "https://github.com/seekerliu/html",
     "support": {
-        "issues": "https://github.com/LaravelCollective/html/issues",
-        "source": "https://github.com/LaravelCollective/html"
+        "issues": "https://github.com/seekerliu/html",
+        "source": "https://github.com/seekerliu/html"
     },
     "authors": [
         {
